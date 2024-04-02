@@ -1,6 +1,6 @@
 # Meu Portfólio 
 
-Minha Pagina de apresentação sobre o meus projetos! 
+Minha página de apresentação sobre o meus projetos! 
 
 ## Demonstração
 
@@ -8,7 +8,7 @@ Minha Pagina de apresentação sobre o meus projetos!
 
 ## Pré-requisitos
 
-Qualquer Navegador Wrb (Google Chrome, Opera, Firefox)
+Qualquer Navegador Web (Google Chrome, Opera, Firefox)
 
 ## Tecnologias Utilizadas 
 
